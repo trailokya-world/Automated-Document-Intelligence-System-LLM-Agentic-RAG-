@@ -165,6 +165,18 @@ Through this project, I gained hands-on experience in:
 
 ---
 
+
+## Interface (ScreenShots)
+
+![Input](/screenshots/1st.png)
+
+![Output](screenshots/2nd.png)
+
+![Output](screenshots/3rd.png)
+
+
+
+
 ## 👨‍💻 Author
 
 **Trailokya Dhotre**
